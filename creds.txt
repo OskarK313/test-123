@@ -1,1 +1,1 @@
-"user.login: 123, user.pass pass" 
+"user.login: oskar@oskar.com, user.pass pass123" 
